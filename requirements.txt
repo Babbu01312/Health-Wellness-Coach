@@ -1,0 +1,7 @@
+numpy
+pandas
+langchain-community
+llama-index
+openpyxl
+streamlit
+faiss-cpu
